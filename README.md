@@ -1,7 +1,5 @@
 # Probability-and-Statistics
 
----
-
 ## I 순열과 조합
 1. 순열
     - 경우의 수
